@@ -1,14 +1,14 @@
 ## Prerequisits
 
-- Install Node.js, 
+- Install Node.js: [https://nodejs.org/en] 
 - Install Python (optional)
 - Install VS Code: [https://code.visualstudio.com] 
 - Install OpenCode: [https://opencode.ai]
-- Connect to Zen (/connect), create an account
+- Connect to Zen AI (/connect), create an account
 - Select a free model: DeepSeek V4 Flash Free 
 - For windows user, Windows Subsystem for Linux (WSL) is highly recommended
 If you say ‘hi’ and get a response, you are ready to go
-- Change directory to the repo folder in command line and open opencode
+- Change directory to the repo folder in command line and run opencode
 
 ## Install agentic skills and commands
 Matt Pocock skills: [https://github.com/mattpocock/skills] for grill-me, caveman etc. skills
