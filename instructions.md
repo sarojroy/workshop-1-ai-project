@@ -27,6 +27,11 @@ Agentic coding on steroids (workflows built-in):  [https://github.com/opensoft/o
 Plugin for creating and maintaining Intent Layer infrastructure: [https://github.com/orban/intent-layer]
 Measure your token usage and optimize them: [https://github.com/alexgreensh/token-optimizer]
 
+## Some code review tools:
+Open Code Review for Java projects: [https://github.com/spencermarx/open-code-review]   
+Open Code Review by Alibaba: [https://github.com/alibaba/open-code-review]
+Open-Source PR Reviewer: [https://github.com/The-PR-Agent/pr-agent]
+
 ## Few more opensource tools:
 PI Agent: [https://pi.dev/]
 Deterministic AI Coding Workflow: [https://github.com/coleam00/archon]
