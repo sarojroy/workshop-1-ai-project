@@ -16,7 +16,7 @@ CLI proxy that reduces LLM token consumption by 60-90%: [https://github.com/rtk-
 > Note: This repo already has a few skills installed from Cole Medin's projects like e2e-test, create-prd, create-rules, execute, plan-feature, prime etc. converted for opencode 
 
 ## Project Prompt:
-I want to develop a simple password manager which will be able to store passwords in a secure way. Make a regsitration and login page too. It needs to be a desktop application using tauri. Make a beautiful minimulist UI. 
+I want to develop a simple password manager which will be able to store passwords in a secure way. Make a registration and login page too. It needs to be a desktop application using Tauri. Make a beautiful minimalist UI. 
 
 ## Install some additional skills/plugins
 
