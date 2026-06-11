@@ -23,8 +23,9 @@ I want to develop a simple password manager which will be able to store password
 Superpowers with workflows built-in: [https://github.com/obra/superpowers]
 Up-to-date Code Docs For Any Prompt: https://github.com/upstash/context7
 AI skill that provides design intelligence: [https://github.com/nextlevelbuilder/ui-ux-pro-max-skill]
-
 Agentic coding on steroids (workflows built-in):  [https://github.com/opensoft/oh-my-opencode]
+Plugin for creating and maintaining Intent Layer infrastructure: [https://github.com/orban/intent-layer]
+Measure your token usage and optimize them: [https://github.com/alexgreensh/token-optimizer]
 
 ## Few more opensource tools:
 PI Agent: [https://pi.dev/]
